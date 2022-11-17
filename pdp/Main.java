@@ -13,15 +13,16 @@ public class Main {
      */
     public static void main(String[] args) {
         // TODO code application logic here
+        Menu menu = new Menu();
         System.out.println("Bem vindo ao Campo Minado");
-        Menu.menu();
+        menu.menu();
+        
     }
 
     //menu inicial
     
     
     //configurações de dificuldade
-    
 
     //regras do jogo
     
